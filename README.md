@@ -10,3 +10,5 @@ To run the application:
 
 - Download the folder onto your machine and then navigate to it in the terminal.
 - Use NPM start to run the application and navigate to your designated local host port and its ready to go.
+
+*The api key is resticted to only take requests from localhost:3000 so if you use another port for your localhost then the application will not work correctly*
